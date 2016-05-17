@@ -8,7 +8,7 @@ import java.awt.event.MouseListener;
 
 import javax.swing.JFrame;
 
-
+//SOY PICHA16
 public class Dibujar extends JFrame{
 	
 	Canvas canvas;
